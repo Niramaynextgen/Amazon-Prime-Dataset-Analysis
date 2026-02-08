@@ -20,7 +20,7 @@ This project utilizes the Amazon Prime Video dataset, which includes information
 ## Tools and Technologies
 - **Programming Language**: Python
 - **Data Analysis Libraries**: Pandas, NumPy
-- **Visualization Tools**: Matplotlib, Seaborn
+- **Visualization Tools**: Matplotlib
 - **Jupyter Notebook**: For interactive analysis and visualization.
 
 ## Installation

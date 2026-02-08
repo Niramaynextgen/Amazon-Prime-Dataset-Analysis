@@ -1,0 +1,4 @@
+Requirement For Create Dashboard 
+Jupyter notebook latest version 
+python latest version 
+Libraries : Pandas,Numpy,Matplotlib,Seaborn,Streamlit

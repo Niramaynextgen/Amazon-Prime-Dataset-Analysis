@@ -1,5 +1,7 @@
-Requirement for create dashboard 
-Jupyter notebook latest version 
-Python latest version 
-Libraries : Pandas,Numpy,Matplotlib,Seaborn,Streamlit
-Download dataset from kaggle "Amazoon Prime Dataset"
+streamlit==1.28.1
+pandas==2.1.3
+numpy==1.24.3
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.18.0
+scikit-learn==1.3.2
